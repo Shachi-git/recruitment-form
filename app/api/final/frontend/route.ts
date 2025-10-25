@@ -81,7 +81,7 @@ export async function POST(request: Request): Promise<Response> {
           final_comment: parsed.data.R15,
         },
       },
-      created_at: new Date(),
+      submitted_at: new Date(),
     })
 
     console.log("Inserted document:", insertResult.insertedId)

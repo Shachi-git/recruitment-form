@@ -40,6 +40,7 @@ export async function POST(request: Request) {
       upload_speed: result.data.uploadSpeed,
       about_you: result.data.aboutYou,
       past_experience: result.data.pastExperience,
+      submitted_at: new Date(),
     });
 
     console.log("Insert result:", insertResult);
