@@ -52,7 +52,7 @@ MONGODB_URI=<your_mongodb_connection_string>
 ```bash
 - Multi-step Form Workflow: User-friendly form progression with client-side validation
 - Local Data Persistence: Automatically saves progress in localStorage
-- MongoDB Integration: Securely stores all submissions in a NoSQL database
+- MongoDB Integration: Securely stores all submissions
 - Responsive UI: Built with Tailwind CSS and ShadCN UI for consistency
 - Real-time Validation: Ensures data accuracy using Zod
 - Toast Feedback System: Provides instant user feedback on submission success or error
