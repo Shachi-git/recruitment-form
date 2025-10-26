@@ -11,7 +11,6 @@ Recruitment Forms is a dynamic, server-rendered Next.js 15.5.4 application desig
 **Database:** MongoDB (via Mongoose / direct API connection)  
 **Form Validation:** Zod schema validation  
 **UI Enhancements:** Responsive design, local data persistence (via localStorage), client-side error handling, toast notifications  
-**Deployment:** Node.js runtime (supports dynamic routes and server functions)
 
 ## Build & Run Instructions
 
